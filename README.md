@@ -4,6 +4,7 @@
 
 ## Overview
 ![demo](demo.gif)
+
 A slackbot that tracks rating changes of AtCoder users. It displays rankings and reminds users of contest dates.
 
 ## Requirement
