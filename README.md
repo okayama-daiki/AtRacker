@@ -31,9 +31,6 @@ $ pip install -r requirements.txt
 $ python -m atcoder_awarder
 ```
 
-## License
-"AtRacker" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
 ## Author / Contact
 Twitter: [@__dike__](https://twitter.com/__dike__)<br>
 Email: [okayaman0509@gmail.com](okayaman0509@gmail.com)
