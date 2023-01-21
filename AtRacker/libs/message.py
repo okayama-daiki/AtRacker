@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-HELP_MESSAGE = '''\
+HELP_MESSAGE = """\
 --- Here is a list of valid commands ---
 
 `activate`: start monitoring the member's rating fluctuations
@@ -19,4 +19,4 @@ HELP_MESSAGE = '''\
 ---------------------------------------------
 Contact:: okayaman0509@gmail.com
 ---------------------------------------------
-'''
+"""
